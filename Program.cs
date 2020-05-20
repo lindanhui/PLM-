@@ -15,7 +15,7 @@ namespace PLM系统工具集成
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PlmToolsForm());
+            Application.Run(new CreoSetForm());
         }
     }
 }
