@@ -356,5 +356,10 @@ namespace PLM系统工具集成
             Form SetPlm = new SetPlmForm();
             SetPlm.Show();
         }
+
+        private void button_SetCreo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -153,6 +153,7 @@
             this.button_SetCreo.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button_SetCreo.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button_SetCreo.UseVisualStyleBackColor = false;
+            this.button_SetCreo.Click += new System.EventHandler(this.button_SetCreo_Click);
             // 
             // PrintRichTextBox
             // 
